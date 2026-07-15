@@ -1,7 +1,7 @@
 # Creating a Class
 class Student:
 
-    # Constructor (runs automatically when an object is created)
+    # Constructor
     def __init__(self, name, age, department):
         self.name = name
         self.age = age
@@ -16,7 +16,7 @@ class Student:
         print("---------------------------")
 
 
-# Creating Objects
+# Creating Objects for the classes
 student1 = Student("Ali", 21, "Artificial Intelligence")
 student2 = Student("Ahmed", 22, "Computer Science")
 

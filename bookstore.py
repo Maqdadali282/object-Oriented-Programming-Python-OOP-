@@ -36,7 +36,7 @@ class BookStore:
         print("Book not found.\n")
 
 
-# ---------------- Main Program ----------------
+# -------- Main Program ---------
 
 store = BookStore()
 
